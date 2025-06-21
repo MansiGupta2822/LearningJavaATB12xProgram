@@ -1,4 +1,4 @@
-package Ex_03_Java_Basics;
+package ex_03_Java_Basics;
 
 public class SwitchStatement {
     public static void main(String[] args) {

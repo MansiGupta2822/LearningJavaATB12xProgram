@@ -1,4 +1,4 @@
-package Ex_03_Java_Basics;
+package ex_03_Java_Basics;
 
 public class TypeCasting {
     public static void main(String[] args) {

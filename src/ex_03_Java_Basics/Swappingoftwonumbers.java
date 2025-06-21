@@ -1,6 +1,4 @@
-package Ex_03_Java_Basics;
-
-import org.w3c.dom.ls.LSOutput;
+package ex_03_Java_Basics;
 
 public class Swappingoftwonumbers {
     public static void main(String[] args) {
