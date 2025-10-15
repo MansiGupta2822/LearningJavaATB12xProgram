@@ -1,6 +1,10 @@
 package Test;
 
 public class Question13 {
+
+    private Question13(){
+
+    }
     public static void main(String[] args) {
         //Write a program to print multiplication tables using nested loops.
 
